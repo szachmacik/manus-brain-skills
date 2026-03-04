@@ -1,0 +1,17 @@
+# Sekrety — NIGDY nie commituj
+.env
+.env.local
+*.key
+*_secret*
+config_local.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
